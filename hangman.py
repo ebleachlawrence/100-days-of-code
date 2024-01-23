@@ -1,3 +1,4 @@
+# Day 5 challenge of 100 days of code. 
 import random
 
 stages = stages = ['''
